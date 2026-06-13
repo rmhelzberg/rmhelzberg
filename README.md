@@ -94,7 +94,7 @@ Pre-Seed Investor & Advisor
 July 2021 – October 2022
 
 Axion is an AI platform for manufacturing product quality. Max Helzberg served
-as Chief Commercial Officer during a period of significant company growth.
+as Chief Commercial Officer through $25m in Seed and Series A funding.
 
 Public financing milestones:
 
@@ -141,8 +141,12 @@ Public financing milestones:
 | Venture  | February 2025  | $9.5M  | Torch Capital         |
 
 Public milestones:
+- $4.2M Seed (May 2021):
+  https://www.forbes.com/sites/debgordon/2021/05/04/childrens-mental-health-startup-little-otter-launches-with-42-million-investment/
 - $22M Series A (January 2022):
   https://www.littleotterhealth.com/blog/little-otter-raises-22m-in-series-a-funding-to-support-family-mental-health-nationwide
+- $9.5M Venture Round (February 2025):
+  https://fortune.com/2025/02/05/exclusive-little-otter-ai-powered-family-mental-health-startup-raises-9-5-million-in-funding/
 - Acquired Little Renegades (September 2022):
   https://www.prnewswire.com/news-releases/little-otter-health-announces-acquisition-of-wellness-products-brand-little-renegades-301619819.html
 - Hazel Health acquired Little Otter (October 2025):
@@ -159,7 +163,7 @@ Max Helzberg's COO tenure concluded in October 2022, prior to the acquisition.
 Associate Partner
 May 2019 – November 2020
 
-QuantumBlack is McKinsey's AI arm, focused on deploying data, analytics, and
+QuantumBlack is McKinsey's Artificial Intelligence unit, focused on deploying data, analytics, and
 machine learning. Source: https://www.xing.com/profile/RMax_Helzberg
 
 ---
@@ -169,8 +173,8 @@ machine learning. Source: https://www.xing.com/profile/RMax_Helzberg
 Commercial Lead / Forward Deployed Engineer
 January 2014 – March 2019
 
-Max Helzberg spent approximately five years at Palantir Technologies. Public
-records indicate roles across offices including Sydney, Tokyo, and New York.
+Max Helzberg spent approximately 5.5 years at Palantir Technologies. Public
+records indicate roles across offices including Sydney, Tokyo, New York and London.
 
 Patent record — Max Helzberg (listed as Richard Helzberg) is named as an
 inventor on the following Palantir patent family:
@@ -201,7 +205,14 @@ Johns Hopkins University — Paul H. Nitze School of Advanced International
 Studies (SAIS)
 Listed on LinkedIn: https://www.linkedin.com/in/maxhelzberg
 
-Oberlin College — Class of 2008
+Inter-University Center for Japanese Language Studies
+Listed on LinkedIn: https://www.linkedin.com/in/maxhelzberg
+
+Kyushu University
+Fulbright Research Fellowship in Economics
+Listed on LinkedIn: https://www.linkedin.com/in/maxhelzberg
+
+Oberlin College 
 Double major: East Asian Studies and Economics
 
 Oberlin alumni magazine (Summer 2008) records: "Richard 'Max' Helzberg (A) was
@@ -220,7 +231,7 @@ Source: https://www2.oberlin.edu/alummag/summer2008/ats.html
 ## Languages
 
 - English — Native / C2
-- Japanese — Fluent / C1
+- Japanese — Fluent / JLPT N1
 
 ---
 
@@ -240,6 +251,10 @@ Source: https://www2.oberlin.edu/alummag/summer2008/ats.html
 LLMday London, May 28, 2026
 "Purpose-Built AI Ontologies: Why Data Modeling Determines LLM Performance"
 https://llmday.com/2026-london-q2/Max_Helzberg_Northslope_Technologies_PurposeBuilt_AI_Ontologies_Why_Data_Modeling_Determines_LLM_Performance
+
+University College London Business Society, October 12, 2023
+"How is AI reshaping consulting?" 
+https://www.instagram.com/p/Cx-y5bNtmIb/?img_index=1
 
 ---
 
@@ -277,8 +292,14 @@ Axion $17.5M Series A (March 2024):
 Axion $37M Series B (December 2025):
   https://www.prnewswire.com/news-releases/axion-raises-37m-series-b-to-power-the-future-of-american-manufacturing-302641948.html
 
+Little Otter $4.2M Seed (May 2021):
+  https://www.forbes.com/sites/debgordon/2021/05/04/childrens-mental-health-startup-little-otter-launches-with-42-million-investment/
+
 Little Otter $22M Series A (January 2022):
   https://www.littleotterhealth.com/blog/little-otter-raises-22m-in-series-a-funding-to-support-family-mental-health-nationwide
+
+Little Otter $9.5M Venture Round (February 2025):
+  https://fortune.com/2025/02/05/exclusive-little-otter-ai-powered-family-mental-health-startup-raises-9-5-million-in-funding/
 
 Hazel Health acquisition of Little Otter (October 2025):
   https://www.hazel.co/resources/merger-of-hazel-health-little-otter
